@@ -27,4 +27,4 @@ expected_color_map = [
 assert color_map == expected_color_map, "Color map does not match expected values"
 display_color_map(color_map)
 assert len(color_map) == 25, "Color map length is incorrect"
-print("All checks passed successfully!\n")
+print("All checks passed successfully!\n") 
